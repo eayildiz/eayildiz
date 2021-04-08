@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eayildiz
 - 👀 I’m interested in ...
-- 🌱 I’m currently computer science student.
+- 🌱 I’m currently computer science student in TOBB ETU University.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me emiralpery@gmail.com | emiralper.yildiz@etu.edu.tr
 
